@@ -5,5 +5,5 @@ debuggen und optimieren von Flutter Apps" implementiert wurde. Ziel des Prototyp
 Android, iOS, Web und Desktop zu untersuchen. 
 
 ### links
-[inovex](https://www.inovex.de/blog/author/tkallinich/)
-[medium](https://medium.com/@mx_tino)
+- [inovex](https://www.inovex.de/blog/author/tkallinich/)
+- [medium](https://medium.com/@mx_tino)
